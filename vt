@@ -1,0 +1,8 @@
+#! /usr/bin/python
+import urllib
+def getHtml(url):
+	page=urllib.urlopen(url)
+	html=page.read()
+	return html
+url="http://45.79.92.249/mm.txt"
+print getHtml(url),
