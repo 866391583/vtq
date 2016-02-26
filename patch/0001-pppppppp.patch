@@ -1,0 +1,20 @@
+From ab917c760e1f425c140cee769de750f3572415e9 Mon Sep 17 00:00:00 2001
+From: ubuntu <ubuntu@Lenovo-G505>
+Date: Fri, 26 Feb 2016 10:05:18 +0800
+Subject: [PATCH] pppppppp
+
+---
+ b | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/b b/b
+index 919fa3b..a28e51a 100644
+--- a/b
++++ b/b
+@@ -1,2 +1,3 @@
+ ddddddddd
+ unadd
++ppppppppp
+-- 
+1.9.1
+
